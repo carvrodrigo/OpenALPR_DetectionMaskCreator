@@ -8,7 +8,7 @@ How to use:
 - If you want to clear the drawn polygons and start over, click on the "Clear Mask" button.
 - If you want to save a mask that contains the whole image, just click on the "Clear Mask" button and then "Save and Exit".
 - To save the mask image, click on the "Save and Exit" button and choose a path to save the file.
-- In the openalpr.conf file set the parameter: detection_mask_image = [path where you saved the mask]
+- In the openalpr.conf file set the parameter: detection_mask_image = [path/where/you/saved/the/mask.jpg]
 
 The saved file will contain a B&W image where white spaces represent the areas of the frame that will be used for detection and the black spaces will be ignored, reducing the total processing time of the OpenALPR detector. 
 
