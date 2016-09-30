@@ -5,7 +5,7 @@ How to use:
 - Click on the "Load Image" button and open the image you want to use as reference.
 - Click on the picture box and start drawing a polygon that represents the area you want to filter for detecting license plates.
 - Use right-click to close a polygon area (you can draw as many polygons as you wish).
-- If you want to clear the drawed polygons and start over, click on the "Clear Mask" button.
+- If you want to clear the drawn polygons and start over, click on the "Clear Mask" button.
 - If you want to save a mask that contains the whole image, just click on the "Clear Mask" button and then "Save and Exit".
 - To save the mask image, click on the "Save and Exit" button and choose a path to save the file.
 
